@@ -1,4 +1,4 @@
-# aspnetcore-api-serilog
+# ASP.NET Core API - Serilog
 ASP.NET Core API architecture starter project - Serilog
 
 This sample project is a showcase on how to add Serilog for logging purpose in an ASP.NET Core API project.
