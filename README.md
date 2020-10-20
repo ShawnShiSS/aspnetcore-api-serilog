@@ -1,10 +1,15 @@
 # ASP.NET Core API - Serilog
-ASP.NET Core API architecture starter project - Serilog
+A start project for ASP.NET Core API with Serilog configured.
 
-This sample project is a showcase on how to add Serilog for logging purpose in an ASP.NET Core API project.
+# Goals
+This sample project is used to demonstrate how to add Serilog for structured logging in a barebones ASP.NET Core API project.
 
 Serilog provides structured data logging to files, to the console, to persistence store like SQL Server, to Email, etc..
 
+# Getting Started
+You should be able to clone the repo and start running it in Visual Studio right away.
+
+# Additional Notes
 This sample is related to another project [Clean Architecture with partitioned repository pattern using Azure Cosmos DB](https://github.com/ShawnShiSS/clean-architecture-azure-cosmos-db), which is an ongoing start project aimed to showcase the following items:
 * Clean Architecture
 * ASP.NET Core 3.1
