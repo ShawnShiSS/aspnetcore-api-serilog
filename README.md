@@ -33,3 +33,6 @@ This sample is related to another project [Clean Architecture with partitioned r
 * LINQ support vs CosmosDB Client
 * Cosmos DB Change Feed 
 * etc.
+
+# TODOs
+* Add appsettings.Production.json for deployment on Azure App Service
